@@ -1,0 +1,17 @@
+# maven project
+target/
+
+# mac
+.DS_Store
+
+# netbeans
+.nb-configurations.xml
+
+# jetbraint
+*.iml
+.idea/
+
+# eclipse 
+.classpath
+.project
+.settings/
