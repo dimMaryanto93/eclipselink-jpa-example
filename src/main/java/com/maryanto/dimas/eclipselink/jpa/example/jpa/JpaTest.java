@@ -19,7 +19,7 @@ public class JpaTest {
         EntityManagerFactory factory = Persistence.createEntityManagerFactory("persistenceUnit");
         EntityManager manager = factory.createEntityManager();
         JpaTest test = new JpaTest(manager);
-
+        	
     }
 
 }
